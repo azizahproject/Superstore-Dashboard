@@ -1,2 +1,2 @@
-# Superstore Dashboard
+# Superstore Dashboard - Analysis
 
