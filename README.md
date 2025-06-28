@@ -5,7 +5,7 @@
 ![Analysis](https://github.com/user-attachments/assets/b1fd79c2-fb0c-4fd1-af16-ee9bd3cae0a1)
 
 ➡️ View the dashboard [on Tableau Public](https://public.tableau.com/views/SuperstoreDashboard1_17464702977070/Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📁 Dataset 
+📁 [Dataset](https://github.com/azizahproject/Superstore-Dashboard/tree/main/Dataset)
 
 
 ## 📌Project Background
