@@ -4,6 +4,10 @@
 
 ![Analysis](https://github.com/user-attachments/assets/b1fd79c2-fb0c-4fd1-af16-ee9bd3cae0a1)
 
+➡️ View the dashboard [on Tableau Public](https://public.tableau.com/views/SuperstoreDashboard1_17464702977070/Analysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📁 Dataset 
+
+
 ## 📌Project Background
 I created this interactive dashboard as both a practice project and a portfolio piece to apply descriptive statistics and data visualization skills. The dataset used is the Superstore dataset, which contains retail sales transaction data from across the United States.
 The main objective of this project is to visualize sales and profit performance over time, helping managers analyze business performance more efficiently.
@@ -35,6 +39,36 @@ With interactive filters for sales/profit and year selection, users can tailor t
 1. Sales trends form a consistent bell-shaped pattern each month, with a noticeable sales peak occurring around the third or fourth week.
 2. This recurring monthly peak suggests strong seasonality in customer purchasing behavior, possibly driven by end-of-month promotions or purchasing cycles.
 3. In terms of profit, several weeks within the dataset recorded negative values. However, a year-over-year comparison shows that the frequency of negative-profit weeks has gradually decreased.
+
+### ✅ Recommendations
+1. **Focus on Improving Profit Margins**
+   
+   Identify products with high sales volume but low profit margins, and explore pricing, discounting, or cost optimization strategies to improve profitability.
+
+2. **Evaluate Low-Performing Regions**
+
+Investigate U.S. states with consistently negative profit to uncover potential inefficiencies or high operational costs that may be impacting overall business performance.
+
+3. **Address Negative Weekly Profit Trends**
+
+Conduct a deeper analysis of weeks with negative profit values to identify underlying causes. Implement measures to reduce or eliminate negative profit weeks in the future.
+
+---
+
+*These recommendations are based on observed patterns across sales, profit trends, and geographic distribution.*
+
+---
+
+### 💡 Reflection & Lessons Learned
+This project helped me begin to understand the importance of visual storytelling in data analysis. While it's far from perfect, this dashboard holds great meaning to me as my very first project.
+
+One of the key features I built was an interactive filter that allows users to switch the entire narrative between yearly views and focus areas—sales or profit. I also implemented a comparison between the current year and the previous year to reveal performance insights over time.
+
+The biggest challenge I faced was deciding which data to visualize. The dataset offers many possibilities, which made it difficult to narrow down the most relevant information for the business objective.
+
+Another major learning experience was dashboard design. I explored many design references to find the right balance between readability and visual appeal. From layout structure to color choices, every detail was a chance to learn how to make dashboards not only functional, but also engaging.
+
+
 
 
 
