@@ -25,12 +25,16 @@ With interactive filters for sales/profit and year selection, users can tailor t
 
 ### 🔝 Sub-Category & Top Products
 1. Sub-categories such as Phones and Chairs consistently rank at the top in both sales and profit.
+2. Several products with high sales volume do not necessarily generate high profit, indicating potential margin issues.
 
 ### 🌍 Geographical Performance
 1. States such as California and New York show the strongest performance in both sales and profit.
+2. The map provides a clear geographic overview of business performance across U.S. states, helping identify high- and low-performing regions.
 
 ### 📈 Trend Over Time
-
+1. Sales trends form a consistent bell-shaped pattern each month, with a noticeable sales peak occurring around the third or fourth week.
+2. This recurring monthly peak suggests strong seasonality in customer purchasing behavior, possibly driven by end-of-month promotions or purchasing cycles.
+3. In terms of profit, several weeks within the dataset recorded negative values. However, a year-over-year comparison shows that the frequency of negative-profit weeks has gradually decreased.
 
 
 
