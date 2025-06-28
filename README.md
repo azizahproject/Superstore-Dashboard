@@ -45,13 +45,13 @@ With interactive filters for sales/profit and year selection, users can tailor t
 
    Identify products with high sales volume but low profit margins, and explore pricing, discounting, or cost optimization strategies to improve profitability.
 
-3. **Evaluate Low-Performing Regions**
+2. **Evaluate Low-Performing Regions**
 
-Investigate U.S. states with consistently negative profit to uncover potential inefficiencies or high operational costs that may be impacting overall business performance.
+   Investigate U.S. states with consistently negative profit to uncover potential inefficiencies or high operational costs that may be impacting overall business performance.
 
 3. **Address Negative Weekly Profit Trends**
 
-Conduct a deeper analysis of weeks with negative profit values to identify underlying causes. Implement measures to reduce or eliminate negative profit weeks in the future.
+   Conduct a deeper analysis of weeks with negative profit values to identify underlying causes. Implement measures to reduce or eliminate negative profit weeks in the future.
 
 ---
 
