@@ -42,6 +42,7 @@ With interactive filters for sales/profit and year selection, users can tailor t
 
 ### ✅ Recommendations
 1. **Focus on Improving Profit Margins**
+
    Identify products with high sales volume but low profit margins, and explore pricing, discounting, or cost optimization strategies to improve profitability.
 
 3. **Evaluate Low-Performing Regions**
